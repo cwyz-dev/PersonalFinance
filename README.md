@@ -22,8 +22,8 @@ The list of liquidity pools and their value (in USD) must be filled out in `pric
 
 ## TODO List
 - [x] Basic setup
-- [] Database integration
-- [] Pull unique/usefull functions into helper files
-- [] Put customNumber into it's own repository
-- [] Generalize code to improve use coverage
-- [] Config files
+- [ ] Database integration
+- [ ] Pull unique/usefull functions into helper files
+- [ ] Put customNumber into it's own repository
+- [ ] Generalize code to improve use coverage
+- [ ] Config files
